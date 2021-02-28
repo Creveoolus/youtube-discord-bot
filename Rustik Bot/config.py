@@ -1,4 +1,4 @@
-token = 'NzcyMDY2MDUzNDMyODAzMzI4.X51Qiw.vdqNxOkYKDqBkM5VCUuyE1S-8I4'
+token = 'Ndhhfghfgh'
 
 firebase = {
 	"apiKey": "AIzaSyBYHMxJYFVWP6xH55gAY1TJpVECq4KRjKM",
